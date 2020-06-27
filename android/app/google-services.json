@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78192438314",
+    "firebase_url": "https://kaiquecortes-1c5c3.firebaseio.com",
+    "project_id": "kaiquecortes-1c5c3",
+    "storage_bucket": "kaiquecortes-1c5c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78192438314:android:2fb890e262953f195ea753",
+        "android_client_info": {
+          "package_name": "com.example.kaiquecortes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78192438314-m6o441161vurgp6ksfeo2e02f11kpcpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGjSDNi6IiAcsupfxgLUI6HEkfIWNOTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78192438314-m6o441161vurgp6ksfeo2e02f11kpcpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
